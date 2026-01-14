@@ -3,7 +3,7 @@
 A sleek and interactive web component that allows users to "favorite" their favorite Indian sweets. This project demonstrates dynamic state management, DOM manipulation, and modern CSS styling.
 
 ## 🚀 Live Demo
-
+https://patelm36958-sketch.github.io/Interactive-sweet-picker/
 
 ## ✨ Key Features
 * **Dynamic State Toggling:** Users can click the heart icon to toggle between 'empty' (♡) and 'filled' (❤️) states.
